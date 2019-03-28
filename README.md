@@ -1,4 +1,4 @@
-# IterativeSalienceOcclusion
+# Iterative Salience Occlusion
 
 Code Repository to check robustness of 3D Deep Learning (Volumetric and PointNet) to occlusion attacks.
 This repository reproduces the results reported in the CVPR2019 paper: 
