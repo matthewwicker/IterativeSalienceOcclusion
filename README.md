@@ -3,7 +3,7 @@
 Code Repository to check robustness of 3D Deep Learning (Volumetric and PointNet) to occlusion attacks.
 This repository reproduces the results reported in the CVPR2019 paper: 
 
-`Robustness of 3D Deep Learning in an Adversarial Setting'
+['Robustness of 3D Deep Learning in an Adversarial Setting'](https://arxiv.org/abs/1904.00923)
 
 This repository also contains all of the code and data for completing the following tasks:
 *   Training of PointNet and VoxNet architectures on ModelNet and KITTI
